@@ -1,5 +1,5 @@
 # MarsRovers
-Position of the rovers in mars
+Position of the rovers in mars.
 Create a new project with IntelIJ and put both classes on src path.
 Run the code.
 input tests:
